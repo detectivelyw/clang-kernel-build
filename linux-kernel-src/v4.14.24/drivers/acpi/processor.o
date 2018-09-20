@@ -1,0 +1,12 @@
+!<thin>
+//                                              104       `
+processor_driver.o/
+processor_idle.o/
+processor_throttling.o/
+processor_thermal.o/
+processor_perflib.o/
+/0              0           0     0     644     11104     `
+/20             0           0     0     644     28440     `
+/38             0           0     0     644     18112     `
+/62             0           0     0     644     7512      `
+/83             0           0     0     644     20288     `

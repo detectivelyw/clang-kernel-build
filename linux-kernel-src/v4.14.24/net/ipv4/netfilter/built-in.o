@@ -1,0 +1,19 @@
+!<thin>
+//                                              156       `
+nf_conntrack_l3proto_ipv4.o/
+nf_conntrack_proto_icmp.o/
+nf_defrag_ipv4.o/
+nf_reject_ipv4.o/
+ip_tables.o/
+iptable_filter.o/
+iptable_mangle.o/
+ipt_REJECT.o/
+
+/0              0           0     0     644     14288     `
+/29             0           0     0     644     8080      `
+/56             0           0     0     644     5288      `
+/74             0           0     0     644     7288      `
+/92             0           0     0     644     37744     `
+/105            0           0     0     644     5920      `
+/123            0           0     0     644     6320      `
+/141            0           0     0     644     4224      `

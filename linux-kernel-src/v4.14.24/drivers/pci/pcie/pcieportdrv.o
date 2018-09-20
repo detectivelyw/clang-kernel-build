@@ -1,0 +1,10 @@
+!<thin>
+//                                              62        `
+portdrv_core.o/
+portdrv_pci.o/
+portdrv_bus.o/
+portdrv_acpi.o/
+/0              0           0     0     644     9456      `
+/16             0           0     0     644     10440     `
+/31             0           0     0     644     2680      `
+/46             0           0     0     644     1872      `

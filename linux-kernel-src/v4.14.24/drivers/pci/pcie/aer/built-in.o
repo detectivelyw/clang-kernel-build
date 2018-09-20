@@ -1,0 +1,11 @@
+!<thin>
+//                                              60        `
+aerdrv_errprint.o/
+aerdrv_core.o/
+aerdrv.o/
+aerdrv_acpi.o/
+
+/0              0           0     0     644     6712      `
+/19             0           0     0     644     14720     `
+/34             0           0     0     644     10160     `
+/44             0           0     0     644     936       `

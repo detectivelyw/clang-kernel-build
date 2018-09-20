@@ -1,0 +1,16 @@
+!<thin>
+//                                              90        `
+mce.o/
+mce-severity.o/
+mce-genpool.o/
+mce_intel.o/
+mce_amd.o/
+threshold.o/
+therm_throt.o/
+/0              0           0     0     644     78880     `
+/7              0           0     0     644     9296      `
+/23             0           0     0     644     4480      `
+/38             0           0     0     644     19840     `
+/51             0           0     0     644     34488     `
+/62             0           0     0     644     3040      `
+/75             0           0     0     644     18464     `

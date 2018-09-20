@@ -1,0 +1,12 @@
+kernel/sound/soundcore.ko
+kernel/sound/core/snd.ko
+kernel/sound/core/snd-hwdep.ko
+kernel/sound/core/snd-timer.ko
+kernel/sound/core/snd-hrtimer.ko
+kernel/sound/core/snd-pcm.ko
+kernel/sound/core/snd-seq-device.ko
+kernel/sound/core/seq/snd-seq.ko
+kernel/sound/core/seq/snd-seq-dummy.ko
+kernel/sound/hda/snd-hda-core.ko
+kernel/sound/pci/hda/snd-hda-codec.ko
+kernel/sound/pci/hda/snd-hda-intel.ko

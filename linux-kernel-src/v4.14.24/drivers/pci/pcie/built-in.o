@@ -1,0 +1,22 @@
+!<thin>
+//                                              152       `
+aspm.o/
+portdrv_core.o/
+portdrv_pci.o/
+portdrv_bus.o/
+portdrv_acpi.o/
+aer/aerdrv_errprint.o/
+aer/aerdrv_core.o/
+aer/aerdrv.o/
+aer/aerdrv_acpi.o/
+pme.o/
+/0              0           0     0     644     22960     `
+/8              0           0     0     644     9456      `
+/24             0           0     0     644     10440     `
+/39             0           0     0     644     2680      `
+/54             0           0     0     644     1872      `
+/70             0           0     0     644     6712      `
+/93             0           0     0     644     14720     `
+/112            0           0     0     644     10160     `
+/126            0           0     0     644     936       `
+/145            0           0     0     644     11360     `
